@@ -13,6 +13,9 @@
 
 <!-- * Description Section -->
 <div align="center">
+
+<p><strong>Setup by: Shane Tampipig | PHP & Composer Installed Successfully ✅</strong></p>
+
 This repository is a beginner-friendly CodeIgniter 4 template.  
 It helps teams quickly bootstrap backend + frontend projects, with simple sample modules that show how to extend the system.
 </div>
